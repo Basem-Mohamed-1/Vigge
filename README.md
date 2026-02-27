@@ -51,3 +51,7 @@ The application follows a clean, modular architecture based on Object-Oriented P
 - **Singleton Pattern**: For database connection and shared resources
 
 - <img width="1468" height="833" alt="Screenshot 2026-02-27 at 12 28 52 AM" src="https://github.com/user-attachments/assets/bc7865f2-c0e2-4bd9-85b0-7eed64bca60b" />
+
+
+<img width="800" height="791" alt="Screenshot 2026-02-27 at 12 28 41 AM" src="https://github.com/user-attachments/assets/480b3be7-95ce-42bc-81f1-84e436fd3ec6" />
+
