@@ -37,6 +37,21 @@ The Vegetable Store POS System is a robust desktop application that streamlines 
   - Individual Price
 - Clean, organized layout for easy verification
 
+- ### 🧾 Receipt Window
+
+The **Receipt Window** provides a clear summary of each order and helps store staff manage transactions efficiently.  
+
+#### Features:
+- **Customer Details:** Displays customer name and contact information for the current order.  
+- **Order Summary:** Shows all products purchased with their quantities and individual prices.  
+- **Total Calculation:** Automatically calculates the **total amount** for the order in real-time.  
+- **Save or Dismiss:**  
+  - **Save Receipt:** Stores the order in the “Last Orders” directory with a timestamp for easy tracking.  
+  - **Dismiss Receipt:** Closes the window without saving if needed.  
+- **User-Friendly Layout:** Designed to provide a **clear and organized view** of the order for both staff and customers.  
+
+#### Example View:
+
 ## 🏗️ Architecture
 
 The application follows a clean, modular architecture based on Object-Oriented Programming principles:
