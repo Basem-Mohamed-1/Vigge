@@ -50,7 +50,7 @@ The **Receipt Window** provides a clear summary of each order and helps store st
   - **Dismiss Receipt:** Closes the window without saving if needed.  
 - **User-Friendly Layout:** Designed to provide a **clear and organized view** of the order for both staff and customers.  
 
-#### Example View:
+
 
 ## 🏗️ Architecture
 
@@ -64,6 +64,8 @@ The application follows a clean, modular architecture based on Object-Oriented P
 - **MVC Pattern**: Separation of concerns between data, presentation, and control
 - **Observer Pattern**: Real-time UI updates when cart changes
 - **Singleton Pattern**: For database connection and shared resources
+
+- #### Example View:
 
 - <img width="1468" height="833" alt="Screenshot 2026-02-27 at 12 28 52 AM" src="https://github.com/user-attachments/assets/bc7865f2-c0e2-4bd9-85b0-7eed64bca60b" />
 
